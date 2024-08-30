@@ -1,2 +1,14 @@
-# fromt_end_pi2_fatec
-Projeto para agregar ao portfólio do git 2024, 5 período.
+# Front-end
+
+**Integrantes:**
+- Vinicius Souza - PO
+- Vinicius Candeira - Dev
+- Leonardo - Dev
+- Ryan - Dev
+- Gustavo - Dev
+- Emilly França - UX
+
+## Tecnologias
+
+- React Native
+- Figma
